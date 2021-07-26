@@ -30,10 +30,10 @@ class MyApp extends StatelessWidget {
       ),
       routes: {
         "/": (context) => MyHomePage(),
-        "Cadastro": (context) => Cadastro(),
-        "Confirmacao": (context) => Confirmacao()
+        "Confirmacao": (context) => Confirmacao(),
+        "Cadastro": (context) => Cadastro()
 
-        },
+      },
     );
   }
 }

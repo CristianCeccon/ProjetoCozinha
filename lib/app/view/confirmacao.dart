@@ -29,10 +29,10 @@ class _ConfirmacaoState extends State<Confirmacao> {
 
             
             ////////////////////////////////////////////////////
-            
-            PARABENS VOCE CADASTROU UMA RECEITA!!!!!!
 
-            ////////////////////////////////////////////////////
+            PARABENS VOCE CADASTROU UMA RECEITA!!!!!! 
+             
+            //////////////////////////////////////////////////
             
 
 
